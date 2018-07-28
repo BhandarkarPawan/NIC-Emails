@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">"NIC Emails "</string>
+
+    <string-array name="Banks">
+        <item>Corporation Bank</item>
+        <item>Bank of Maharashtra</item>
+        <item>Axis Bank</item>
+        <item>Canara Bank</item>
+        <item>Bank of Baroda</item>
+        <item>State Bank of India</item>
+        <item>ICICI Bank</item>
+        <item>Karnataka Bank</item>
+        <item>Yes Bank</item>
+        <item>Syndicate Bank</item>
+        <item>Vijaya Bank</item>
+        <item>Karur Vyshya Bank</item>
+        <item>HDFC Bank</item>
+        <item>Mangalore Co-Operative Town Bank</item>
+        <item>Karnataka Vikasa Grameena Bank</item>
+    </string-array>
+
+
+
+</resources>
